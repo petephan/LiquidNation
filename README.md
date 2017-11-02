@@ -1,2 +1,2 @@
 # liquidnation
-Mock Website
+SJSU class project - online storefront
